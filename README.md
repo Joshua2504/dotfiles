@@ -2,7 +2,7 @@
 
 ## iTerm
 
-path to config directory needs to be set in iTerm settings.
+path to config directory needs to be set in iTerm settings. find the path with ```pwd```
 
 ## Fish
 
