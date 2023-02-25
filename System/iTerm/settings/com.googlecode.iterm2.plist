@@ -628,7 +628,7 @@
 			<key>Show Status Bar</key>
 			<false/>
 			<key>Show Timestamps</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Status Bar Layout</key>
