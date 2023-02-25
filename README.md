@@ -1,12 +1,14 @@
 # dotfiles
 
-## iTerm
+### iTerm
 
 path to config directory needs to be set in iTerm settings. find the path with ```pwd```
 
-## Fish
+### Fish
 
 ``ln -s .dotfiles/fish/ .config/fish``
+
+if fish doesnÄt recognize any commands, do this:
 
 ```
 fish
@@ -15,7 +17,7 @@ echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
 chsh -s /opt/homebrew/bin/fish
 ```
 
-## Nano
+### Nano
 
 Nano comes from https://github.com/sheharyarn/dotfiles/blob/master/Nano/README.md
 
