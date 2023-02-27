@@ -7,35 +7,35 @@ set tabstospaces            # yes, i know :P
 
 # Loading syntax files that I need
 
-include "~/.dotfiles/Nano/nanorc/makefile.nanorc"
-include "~/.dotfiles/Nano/nanorc/man.nanorc"
-include "~/.dotfiles/Nano/nanorc/git.nanorc"
+include "~/.dotfiles/nano/nanorc/makefile.nanorc"
+include "~/.dotfiles/nano/nanorc/man.nanorc"
+include "~/.dotfiles/nano/nanorc/git.nanorc"
 
-include "~/.dotfiles/Nano/nanorc/inputrc.nanorc"
-include "~/.dotfiles/Nano/nanorc/nanorc.nanorc"
+include "~/.dotfiles/nano/nanorc/inputrc.nanorc"
+include "~/.dotfiles/nano/nanorc/nanorc.nanorc"
 
-include "~/.dotfiles/Nano/nanorc/html.nanorc"
-include "~/.dotfiles/Nano/nanorc/css.nanorc"
-include "~/.dotfiles/Nano/nanorc/js.nanorc"
+include "~/.dotfiles/nano/nanorc/html.nanorc"
+include "~/.dotfiles/nano/nanorc/css.nanorc"
+include "~/.dotfiles/nano/nanorc/js.nanorc"
 
-include "~/.dotfiles/Nano/nanorc/ruby.nanorc"
-include "~/.dotfiles/Nano/nanorc/erb.nanorc"
-include "~/.dotfiles/Nano/nanorc/haml.nanorc"
-include "~/.dotfiles/Nano/nanorc/coffeescript.nanorc"
+include "~/.dotfiles/nano/nanorc/ruby.nanorc"
+include "~/.dotfiles/nano/nanorc/erb.nanorc"
+include "~/.dotfiles/nano/nanorc/haml.nanorc"
+include "~/.dotfiles/nano/nanorc/coffeescript.nanorc"
 
-include "~/.dotfiles/Nano/nanorc/json.nanorc" 
-include "~/.dotfiles/Nano/nanorc/xml.nanorc" 
-include "~/.dotfiles/Nano/nanorc/yaml.nanorc" 
-include "~/.dotfiles/Nano/nanorc/markdown.nanorc" 
+include "~/.dotfiles/nano/nanorc/json.nanorc" 
+include "~/.dotfiles/nano/nanorc/xml.nanorc" 
+include "~/.dotfiles/nano/nanorc/yaml.nanorc" 
+include "~/.dotfiles/nano/nanorc/markdown.nanorc" 
 
-include "~/.dotfiles/Nano/nanorc/php.nanorc"
-include "~/.dotfiles/Nano/nanorc/python.nanorc"
-include "~/.dotfiles/Nano/nanorc/c.nanorc"
-include "~/.dotfiles/Nano/nanorc/java.nanorc"
-include "~/.dotfiles/Nano/nanorc/nginx.nanorc"
+include "~/.dotfiles/nano/nanorc/php.nanorc"
+include "~/.dotfiles/nano/nanorc/python.nanorc"
+include "~/.dotfiles/nano/nanorc/c.nanorc"
+include "~/.dotfiles/nano/nanorc/java.nanorc"
+include "~/.dotfiles/nano/nanorc/nginx.nanorc"
 
 # Issue with repo :(
-# include "~/.dotfiles/Nano/nanorc/sh.nanorc"
-# include "~/.dotfiles/Nano/nanorc/zsh.nanorc"
+# include "~/.dotfiles/nano/nanorc/sh.nanorc"
+# include "~/.dotfiles/nano/nanorc/zsh.nanorc"
 include /usr/local/share/nano/sh.nanorc
 include /usr/local/share/nano/objc.nanorc
