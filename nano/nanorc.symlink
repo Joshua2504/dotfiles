@@ -37,5 +37,7 @@ include "~/.dotfiles/nano/nanorc/nginx.nanorc"
 # Issue with repo :(
 # include "~/.dotfiles/nano/nanorc/sh.nanorc"
 # include "~/.dotfiles/nano/nanorc/zsh.nanorc"
-include /usr/local/share/nano/sh.nanorc
-include /usr/local/share/nano/objc.nanorc
+
+## commented this out because it doesnt exist Joshua2504
+## include /usr/local/share/nano/sh.nanorc
+## include /usr/local/share/nano/objc.nanorc
